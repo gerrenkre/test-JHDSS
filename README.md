@@ -1,4 +1,4 @@
-test-JHDSS
+test-repo
 ==========
 
 this is a test repo
